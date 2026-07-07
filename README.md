@@ -2,7 +2,7 @@
 
 <div align="center">
 
-![Memnexa Banner](Banner.png)
+![Memnexa Banner](Memnexa.png)
 
 ### Your Personal AI Knowledge Operating System
 

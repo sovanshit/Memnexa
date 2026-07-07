@@ -47,7 +47,7 @@ The project combines modern frontend technologies, AI workflows, document proces
 | Backend Development                           | Coming Soon |
 | AI Integration & Knowledge Processing         | Coming Soon |
 | Testing & Optimization                        | Coming Soon |
-| Public Release                                | Coming Soon |
+| **Expected Public Release**                   | **October 2026** |
 
 **Development Status:** 🚧 Active Development
 

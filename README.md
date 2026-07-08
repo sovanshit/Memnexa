@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="Memnexa.png" alt="Memnexa Banner" width="30%">
+<img src="Memnexa.png" alt="Memnexa Banner" width="50%">
 
 <br><br>
 

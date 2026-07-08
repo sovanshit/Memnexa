@@ -314,7 +314,7 @@ Licensed under the MIT License.
 
 Frontend Developer • AI Enthusiast • MCA Student
 
-🌐 Portfolio: Live since May 2025 — regularly updated with projects, internship experience, and new developments.
+🌐 Portfolio: Live since May 2024 — regularly updated with projects, internship experience, and new developments.
 
 📧 Email: sovanshit20@gmail.com
 

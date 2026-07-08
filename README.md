@@ -1,24 +1,66 @@
-# 🧠 Memnexa
-
 <div align="center">
 
-![Memnexa Banner](Memnexa.png)
+<img src="Banner.png" alt="Memnexa Banner" width="30%">
+
+<br><br>
+
+# 🧠 Memnexa
 
 ### Your Personal AI Knowledge Operating System
 
-An AI-powered knowledge management platform that helps you organize documents, notes, websites, and ideas into an intelligent, searchable workspace.
+### Think Smarter. Remember Everything.
 
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)]()
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)]()
-[![JavaScript](https://img.shields.io/badge/JavaScript-ES6-F7DF1E?logo=javascript&logoColor=black)]()
-[![Python](https://img.shields.io/badge/Python-3.12-blue?logo=python)]()
-[![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi)]()
-[![Firebase](https://img.shields.io/badge/Firebase-Authentication-orange?logo=firebase)]()
-[![License](https://img.shields.io/badge/License-MIT-green)]()
+Organize documents, websites, notes, images, code, and ideas into one intelligent workspace powered by Artificial Intelligence.
 
-🌐 **Live Website:** Coming Soon
+<br>
 
-⭐ Star this repository if you like the project!
+<a href="#">
+    <img src="https://img.shields.io/badge/🚀%20Coming%20October%202026-4F46E5?style=for-the-badge">
+</a>
+
+<a href="https://github.com/sovanshit/Memnexa">
+    <img src="https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white">
+</a>
+
+<a href="#">
+    <img src="https://img.shields.io/badge/🧠%20AI%20Knowledge-Platform-7C3AED?style=for-the-badge">
+</a>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/Status-Under%20Development-orange?style=flat-square">
+
+<img src="https://img.shields.io/badge/Frontend-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
+
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white">
+
+<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white">
+
+<img src="https://img.shields.io/badge/Firebase-Authentication-FFCA28?style=flat-square&logo=firebase&logoColor=black">
+
+<img src="https://img.shields.io/badge/Responsive-Yes-success?style=flat-square">
+
+<img src="https://img.shields.io/badge/Dark%20Mode-Supported-111827?style=flat-square">
+
+</div>
+
+---
+
+# 🌐 Live Website
+
+Experience the future of AI-powered knowledge management.
+
+<div align="center">
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/🚀%20Memnexa-Public%20Release%20October%202026-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white">
+
+</a>
 
 </div>
 
@@ -26,263 +68,576 @@ An AI-powered knowledge management platform that helps you organize documents, n
 
 # 📖 About
 
-Memnexa is an AI-powered knowledge management platform designed to become your second brain.
+**Memnexa** is a modern AI-powered Personal Knowledge Operating System designed to help users capture, organize, search, and interact with their digital knowledge in one unified workspace.
 
-It enables users to upload documents, organize knowledge, search information intelligently, and interact with their personal knowledge base through an AI-powered chat interface.
+Whether you're managing documents, saving websites, writing notes, storing code snippets, or organizing research, Memnexa transforms scattered information into an intelligent knowledge base that grows with you.
 
-Built with a modern interface inspired by today's AI applications, Memnexa focuses on simplicity, speed, privacy, and productivity.
+Built with modern web technologies and AI-ready architecture, Memnexa provides a fast, secure, and beautiful experience for students, developers, researchers, creators, and professionals.
 
-The project combines modern frontend technologies, AI workflows, document processing, and semantic search to create an intelligent personal workspace.
+Unlike traditional note-taking applications, Memnexa is designed to become an intelligent second brain—connecting your knowledge, understanding context, and helping you retrieve information instantly.
+
+---
+
+## ✨ Why Memnexa?
+
+✔ Store everything in one place
+
+✔ Chat with your knowledge
+
+✔ AI-powered search
+
+✔ Organize documents intelligently
+
+✔ Build a personal knowledge graph
+
+✔ Beautiful modern workspace
+
+✔ Fast and responsive interface
+
+✔ Secure authentication
+
+✔ Privacy-focused architecture
+
+---
+
+## 🎯 Objectives
+
+- Build an AI-powered personal knowledge platform.
+- Organize digital information intelligently.
+- Enable semantic search across saved content.
+- Create an interactive AI knowledge assistant.
+- Visualize connected knowledge through graphs.
+- Provide a clean and responsive workspace.
+- Deliver a scalable architecture for future AI features.
 
 ---
 
 # 🚀 Development Timeline
 
 | Phase | Duration |
-|-----------------------------------------------|---------------------------|
-| Project Planning & Research                   | February 2026 |
-| UI / UX Design                                | March – May 2026 |
-| Frontend Development                          | June – July 2026 |
-| Project Enhancement & Development Pause       | August 2026 |
-| Backend Development                           | Coming Soon |
-| AI Integration & Knowledge Processing         | Coming Soon |
-| Testing & Optimization                        | Coming Soon |
-| **Expected Public Release**                   | **October 2026** |
+|----------------------------------|-------------------------|
+| Project Planning & Research | February 2026 |
+| UI / UX Design | March – May 2026 |
+| Frontend Development | June – July 2026 |
+| Authentication System | August 2026 |
+| Backend Development | September 2026 |
+| AI Integration | September 2026 |
+| Knowledge Processing Engine | September 2026 |
+| Testing & Optimization | September – October 2026 |
+| Public Release | October 2026 |
 
-**Development Status:** 🚧 Active Development
+**Development Period:** **February 2026 – October 2026**
 
----
-
-# ✨ Features
-
-## ✅ Currently Available
-
-- 🎨 Modern Landing Page
-- 🌙 Dark / Light Theme
-- 🔐 Authentication Interface
-- 📱 Fully Responsive Design
-- ⚡ Smooth Animations
-- 🎯 Interactive Dashboard UI
-- 🧠 AI Chat Interface
-- 📂 Workspace Layout
-- 📊 Modern Analytics UI
-- ⚙️ Settings Interface
+🌐 **Portfolio:** Live since **May 2025** — regularly updated with projects, internship experience, and new developments.
 
 ---
 
-## 🚧 Coming Soon
+# ✨ Key Features
 
-- 🤖 AI Chat Assistant
-- 📄 PDF & Document Upload
-- 🧠 AI Knowledge Extraction
-- 🔍 Semantic Search
-- 📚 Knowledge Graph
-- 🗂 Workspace Management
-- 🔗 Website Import
-- 📷 Image OCR
-- 🎙 Voice Assistant
-- ☁ Cloud Sync
-- 👥 Team Collaboration
-- 🔒 End-to-End Privacy
-- 📈 AI Analytics
+<table>
 
----
+<tr>
 
-# 🖥 Modules
+<td width="50%">
 
-### 🏠 Landing Page
+## 🧠 AI Features
 
-Beautiful landing page introducing Memnexa.
-
----
-
-### 🔐 Authentication
-
-Modern Sign In and Registration experience.
-
----
-
-### 📂 Workspace
-
-Organize documents, notes, and knowledge.
-
----
-
-### 🤖 AI Chat
-
-Ask questions about your uploaded knowledge.
-
----
-
-### 📄 Knowledge Base
-
-Store and manage files, notes, and web content.
-
----
-
-### 📊 Analytics
-
-Track workspace activity and AI insights.
-
----
-
-### ⚙ Settings
-
-Personalization and account management.
-
----
-
-# 📸 Screenshots
-
-| Landing Page |
-|--------------|
-| ![](screenshots/home.png) |
-
-| Authentication |
-|--------------|
-| ![](screenshots/auth.png) |
-
-| Dashboard |
-|--------------|
-| ![](screenshots/dashboard.png) |
-
-| AI Workspace |
-|--------------|
-| ![](screenshots/workspace.png) |
-
-| AI Chat |
-|--------------|
-| ![](screenshots/chat.png) |
-
----
-
-# 🛠 Tech Stack
-
-## Frontend
-
-- HTML5
-- CSS3
-- JavaScript (ES6)
-
-## Backend
-
-- Python
-- FastAPI
-
-## Authentication
-
-- Firebase Authentication
-
-## AI
-
-- OpenAI API
-- Retrieval-Augmented Generation (RAG)
-- Vector Search (Planned)
-
-## Database
-
-- Firebase
-- Vector Database (Planned)
-
-## Deployment
-
-- Firebase Hosting
-
----
-
-# 🚀 Planned AI Capabilities
-
-- Intelligent Document Chat
+- AI Chat Assistant
 - Semantic Search
-- Knowledge Graph
 - AI Summaries
-- Smart Notes
-- Automatic Tag Generation
-- AI Recommendations
-- Citation Support
-- Multi-document Question Answering
+- Smart Recommendations
+- Knowledge Graph
+- Contextual Responses
+
+</td>
+
+<td width="50%">
+
+## 📂 Knowledge Management
+
+- Documents
+- Notes
+- Websites
+- Images
+- Code Snippets
+- Collections
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## ⚡ Productivity
+
+- Smart Workspace
+- Recent Activity
+- Favorites
+- Tags
+- Quick Search
+- Dashboard
+
+</td>
+
+<td>
+
+## 🌐 Platform
+
+- Responsive Design
+- Firebase Authentication
+- Dark Mode
+- Modern Glass UI
+- FastAPI Backend
+- Future AI Ready
+
+</td>
+
+</tr>
+
+</table>
 
 ---
 
-# 🔒 Privacy
+# ⚙️ Tech Stack
 
-Memnexa is designed with privacy as a priority.
+<div align="center">
 
-✔ Secure Authentication
+<img src="https://skillicons.dev/icons?i=html,css,js,python,fastapi,firebase,git,github,vscode" />
 
-✔ User-Controlled Knowledge
+<br><br>
 
-✔ Private AI Workspace
+| Frontend | Backend | Authentication | Tools |
+|-----------|----------|----------------|-------|
+| HTML5 | FastAPI | Firebase Auth | VS Code |
+| CSS3 | Python | Google Sign-In | Git |
+| JavaScript | REST API | Firebase SDK | GitHub |
 
-✔ Secure Cloud Storage
-
-✔ No unnecessary data collection
+</div>
 
 ---
 
-# ⚙ Installation
+# 🚀 Project Workflow
 
-Clone the repository
+```mermaid
+flowchart LR
 
-```bash
-git clone https://github.com/YOUR_USERNAME/Memnexa.git
+A[👤 User]
+
+A --> B[🔐 Firebase Authentication]
+
+B --> C[📂 Personal Workspace]
+
+C --> D[📄 Upload Knowledge]
+
+D --> E{Content Type}
+
+E -->|📄 Documents| F1[Knowledge Database]
+
+E -->|🌐 Websites| F2[Knowledge Database]
+
+E -->|📝 Notes| F3[Knowledge Database]
+
+E -->|🖼 Images| F4[Knowledge Database]
+
+E -->|💻 Code| F5[Knowledge Database]
+
+F1 --> G[🧠 AI Processing Engine]
+F2 --> G
+F3 --> G
+F4 --> G
+F5 --> G
+
+G --> H[🔍 Semantic Search]
+
+G --> I[🤖 AI Chat]
+
+G --> J[🕸 Knowledge Graph]
+
+H --> K[📊 Dashboard]
+
+I --> K
+
+J --> K
 ```
 
-Install backend dependencies
+---
 
-```bash
-pip install -r backend/requirements.txt
-```
+# 📂 Project Modules
 
-Run backend
+| Module | Description |
+|---------|-------------|
+| 🏠 Landing Page | Beautiful homepage introducing Memnexa and its AI-powered ecosystem. |
+| 🔐 Authentication | Secure login and registration using Firebase Authentication. |
+| 📊 Dashboard | Central workspace showing recent activity, collections, and quick actions. |
+| 📂 Workspace | Manage documents, notes, websites, images, and code snippets. |
+| 🤖 AI Chat | Interact with your knowledge using natural language conversations. |
+| 🔍 Smart Search | AI-powered semantic search across all stored knowledge. |
+| 🕸 Knowledge Graph | Visualize relationships between connected information. |
+| 📚 Collections | Organize knowledge into custom workspaces and folders. |
+| ⚙ Settings | Manage account, theme, preferences, and integrations. |
+| 👤 Profile | Personal account management and user preferences. |
 
-```bash
-python backend/main.py
-```
+---
 
-Run frontend
+# 📌 Core Functionalities
 
-Open **index.html** using Live Server.
+- ✅ AI-Powered Knowledge Management
+- ✅ Firebase Authentication
+- ✅ Modern Dashboard
+- ✅ Smart Workspace
+- ✅ Semantic Search
+- ✅ AI Chat Assistant
+- ✅ Knowledge Graph
+- ✅ Document Management
+- ✅ Website Bookmarking
+- ✅ Code Snippet Storage
+- ✅ Responsive Design
+- ✅ Modern Glassmorphism UI
+- ✅ Dark / Light Theme
+- ✅ Fast Loading Interface
+- ✅ Scalable Architecture
+
+---
+
+# 📸 Project Screenshots
+
+A quick overview of the Memnexa interface and major modules.
+
+---
+
+## 🏠 Landing Page
+
+The landing page introduces Memnexa with a modern glassmorphism interface, smooth animations, and AI-inspired visuals.
+
+<img src="screenshots/Home.png" alt="Memnexa Home">
+
+---
+
+## 🔐 Authentication
+
+Secure authentication powered by Firebase with Google Sign-In and Email Authentication.
+
+<img src="screenshots/Auth.png" alt="Authentication">
+
+---
+
+## 📊 Dashboard
+
+A clean workspace providing quick access to documents, collections, AI tools, and recent activity.
+
+<img src="screenshots/Dashboard.png" alt="Dashboard">
+
+---
+
+## 📂 Workspace
+
+Manage PDFs, notes, websites, images, and code snippets from a single intelligent workspace.
+
+<img src="screenshots/Workspace.png" alt="Workspace">
+
+---
+
+## 🤖 AI Chat
+
+Chat naturally with your stored knowledge and receive contextual AI-powered responses.
+
+<img src="screenshots/AI Chat.png" alt="AI Chat">
+
+---
+
+## 🔍 Smart Search
+
+Instantly search across your entire knowledge base using intelligent semantic search.
+
+<img src="screenshots/Search.png" alt="Search">
+
+---
+
+## 🕸 Knowledge Graph
+
+Visualize how documents, notes, websites, and ideas connect with each other.
+
+<img src="screenshots/Knowledge Graph.png" alt="Knowledge Graph">
 
 ---
 
 # 📂 Project Structure
 
-```
-Memnexa
+```text
+📦 Memnexa
 │
-├── backend
+├── 📂 backend
 │   ├── main.py
 │   └── requirements.txt
 │
-├── assets
-├── screenshots
-├── app.js
-├── config.js
-├── index.html
-├── styles.css
+├── 📂 screenshots
 │
-└── README.md
+├── 📂 assets
+│
+├── 📜 index.html
+├── 📜 styles.css
+├── 📜 app.js
+├── 📜 config.js
+├── 📜 README.md
+│
+└── Banner.png
 ```
 
 ---
 
-# 🛣 Roadmap
+# 🏗 Project Architecture
 
-- ✅ Landing Page
-- ✅ Theme System
-- ✅ Authentication UI
-- ✅ Dashboard UI
-- ✅ Workspace UI
-- 🚧 Backend API
-- 🚧 AI Chat
-- 🚧 Document Upload
-- 🚧 Knowledge Graph
-- 🚧 Semantic Search
-- 🚧 OCR Support
-- 🚧 Team Collaboration
-- 🚧 Browser Extension
-- 🚧 Mobile Application
+```mermaid
+graph TD
+
+A[👤 User]
+
+A --> B[Frontend Interface]
+
+B --> C[Firebase Authentication]
+
+B --> D[Workspace]
+
+D --> E[Knowledge Storage]
+
+E --> F[AI Processing Engine]
+
+F --> G[Semantic Search]
+
+F --> H[AI Chat]
+
+F --> I[Knowledge Graph]
+
+G --> J[Dashboard]
+
+H --> J
+
+I --> J
+```
+
+---
+
+## Folder Description
+
+| Folder | Description |
+|---------|-------------|
+| 📂 backend | FastAPI backend and API services |
+| 📂 assets | Images, icons, and project resources |
+| 📂 screenshots | Images used inside the README |
+| 📜 app.js | Main frontend application logic |
+| 📜 styles.css | Complete UI styling |
+| 📜 config.js | Application configuration |
+| 📜 main.py | FastAPI server entry point |
+| 📜 requirements.txt | Python dependencies |
+
+---
+
+> 📌 Memnexa follows a modular architecture designed for scalability, allowing AI capabilities, workspace management, and knowledge processing to evolve independently while maintaining a clean and maintainable codebase.
+
+---
+
+# 🚀 Installation
+
+Follow these steps to run **Memnexa** locally.
+
+---
+
+## 1️⃣ Clone the Repository
+
+```bash
+git clone https://github.com/sovanshit/Memnexa.git
+```
+
+---
+
+## 2️⃣ Navigate to the Project
+
+```bash
+cd Memnexa
+```
+
+---
+
+## 3️⃣ Install Backend Dependencies
+
+```bash
+cd backend
+pip install -r requirements.txt
+```
+
+---
+
+## 4️⃣ Start the Backend Server
+
+```bash
+python main.py
+```
+
+The backend will start on:
+
+```text
+http://127.0.0.1:8000
+```
+
+---
+
+## 5️⃣ Start the Frontend
+
+Simply open **index.html** using **Live Server** in VS Code.
+
+or
+
+```text
+http://127.0.0.1:5500
+```
+
+---
+
+## 6️⃣ Firebase Configuration
+
+Open
+
+```text
+config.js
+```
+
+Replace the Firebase configuration with your own project credentials.
+
+```javascript
+const firebaseConfig = {
+  apiKey: "...",
+  authDomain: "...",
+  projectId: "...",
+  storageBucket: "...",
+  messagingSenderId: "...",
+  appId: "..."
+};
+```
+
+---
+
+## 7️⃣ Ready to Go
+
+Your local Memnexa workspace is now running.
+
+---
+
+# 🔒 Privacy & Security
+
+Memnexa is designed with a **privacy-first** approach.
+
+Your knowledge belongs to you.
+
+---
+
+## Security Highlights
+
+| Feature | Description |
+|---------|-------------|
+| 🔐 Firebase Authentication | Secure Google & Email login |
+| 📄 Private Knowledge Storage | Personal workspace isolation |
+| 🔒 Protected Routes | Authentication required for workspace |
+| ⚡ FastAPI Backend | Lightweight and secure API |
+| 🌙 Local Preferences | Theme stored locally |
+| 🛡 Secure Architecture | Designed for future encrypted storage |
+
+---
+
+## Privacy Principles
+
+✔ User-first architecture
+
+✔ Secure authentication
+
+✔ Personal knowledge ownership
+
+✔ Privacy-focused design
+
+✔ No unnecessary data collection
+
+✔ Future encrypted knowledge storage
+
+---
+
+# 📈 Future Roadmap
+
+The following features are planned for future releases.
+
+| Feature | Status |
+|---------|:------:|
+| 🤖 AI Chat Assistant | 🚧 In Progress |
+| 🕸 Knowledge Graph | 🚧 In Progress |
+| 🔍 Semantic Search | 🚧 Planned |
+| 📄 PDF Intelligence | 🚧 Planned |
+| 🌐 Website Import | 🚧 Planned |
+| 📝 Markdown Support | 🚧 Planned |
+| 💻 Code Understanding | 🚧 Planned |
+| 📷 OCR Image Reading | 🚧 Planned |
+| 🎤 Voice Notes | 🚧 Planned |
+| 📱 Mobile Application | 🚧 Planned |
+| 💻 Desktop Application | 🚧 Planned |
+| 🌍 Browser Extension | 🚧 Planned |
+| ☁ Cloud Synchronization | 🚧 Planned |
+| 👥 Team Workspace | 🚧 Planned |
+| 🔗 API Integrations | 🚧 Planned |
+
+---
+
+# 📊 Project Statistics
+
+| Metric | Value |
+|---------|------:|
+| 💻 Frontend Pages | 15+ |
+| 📂 Workspace Modules | 10+ |
+| 🔐 Authentication System | Firebase |
+| ⚡ Backend | FastAPI |
+| 🧠 AI Modules | Coming Soon |
+| 🌙 Dark Theme | Yes |
+| 📱 Responsive Design | Yes |
+| 🔍 Smart Search | Coming Soon |
+| 🕸 Knowledge Graph | Coming Soon |
+| 🚀 Deployment Ready | Yes |
+
+---
+
+# ⚡ Performance Highlights
+
+| Feature | Status |
+|---------|:------:|
+| Responsive UI | ✅ |
+| Dark Mode | ✅ |
+| Modern Glass UI | ✅ |
+| Firebase Authentication | ✅ |
+| FastAPI Backend | ✅ |
+| Mobile Responsive | ✅ |
+| Optimized Animations | ✅ |
+| AI Integration Ready | ✅ |
+
+---
+
+# 🌍 Browser Compatibility
+
+<div align="center">
+
+| Chrome | Edge | Brave | Opera | Firefox | Safari |
+|:------:|:----:|:-----:|:------:|:-------:|:------:|
+| ✅ | ✅ | ✅ | ✅ | ✅ | ⚠️ |
+
+</div>
+
+---
+
+# 💡 Why Memnexa?
+
+Today's information is scattered across PDFs, websites, notes, code snippets, screenshots, and bookmarks.
+
+Memnexa brings everything together into one intelligent workspace.
+
+Instead of simply storing information, Memnexa is being built to understand it—connecting related knowledge, enabling natural conversations, and making retrieval effortless.
+
+Whether you're a student, developer, researcher, creator, or professional, Memnexa aims to become your personal AI-powered second brain.
 
 ---
 
@@ -290,41 +645,166 @@ Memnexa
 
 Contributions are welcome.
 
-1. Fork the repository
-
-2. Create your feature branch
-
-3. Commit your changes
-
-4. Push your branch
-
-5. Open a Pull Request
+Whether it's improving the UI, optimizing performance, fixing bugs, or adding new AI capabilities, every contribution helps make Memnexa better.
 
 ---
 
-# 📄 License
+## Contribution Workflow
 
-Licensed under the MIT License.
+```text
+Fork Repository
+        │
+        ▼
+Create Feature Branch
+        │
+        ▼
+Commit Changes
+        │
+        ▼
+Push Branch
+        │
+        ▼
+Open Pull Request
+```
 
 ---
 
 # 👨‍💻 Developer
 
-**Sovan Shit**
+<div align="center">
 
-Frontend Developer • AI Enthusiast • MCA Student
+# Sovan Shit
 
-🌐 Portfolio: Live since May 2024 — regularly updated with projects, internship experience, and new developments.
+### Frontend Developer • AI Enthusiast • MCA Student
 
-📧 Email: sovanshit20@gmail.com
+Building modern AI-powered web applications focused on productivity, knowledge management, and user experience.
+
+🌐 **Portfolio:** Live since **May 2025** — regularly updated with projects, internship experience, and new developments.
+
+📧 **Email:** sovanshit20@gmail.com
+
+</div>
+
+---
+
+## Responsibilities
+
+- 🎨 UI / UX Design
+- 💻 Frontend Development
+- ⚡ JavaScript Application Development
+- 🔐 Firebase Authentication
+- 🐍 FastAPI Backend
+- 🧠 AI System Design
+- 📚 Knowledge Management Architecture
+- 🕸 Knowledge Graph Design
+- 📊 Dashboard Development
+- 📱 Responsive Design
+- ⚙ Performance Optimization
+
+---
+
+# 🏆 Project Highlights
+
+- 🧠 AI Knowledge Operating System
+- 🤖 AI Chat Workspace
+- 📚 Smart Knowledge Management
+- 🔍 Semantic Search
+- 🕸 Interactive Knowledge Graph
+- 📄 Intelligent Document Management
+- 🌐 Website Knowledge Capture
+- 📝 Smart Notes Organization
+- 📂 Workspace Collections
+- 🔐 Firebase Authentication
+- ⚡ FastAPI Backend
+- 🎨 Modern Glassmorphism Interface
+- 🌙 Dark / Light Theme
+- 📱 Fully Responsive
+- 🚀 Scalable Architecture
+
+---
+
+# 🙏 Acknowledgements
+
+Special thanks to the amazing open-source technologies and communities that make Memnexa possible.
+
+- HTML5
+- CSS3
+- JavaScript
+- Python
+- FastAPI
+- Firebase
+- GitHub
+- VS Code
+- OpenAI (Future Integration)
+- Open Source Community ❤️
+
+---
+
+# 📄 License
+
+This project is developed for **educational, research, and portfolio purposes**.
+
+You are welcome to explore the source code, learn from it, and build upon it for non-commercial use while giving appropriate credit.
+
+---
+
+# 🌍 Live Website
+
+The official public release of **Memnexa** is expected in **October 2026**.
+
+Stay tuned for the launch of your personal AI Knowledge Operating System.
+
+<div align="center">
+
+<a href="#">
+
+<img src="https://img.shields.io/badge/🚀%20Public%20Release-October%202026-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white">
+
+</a>
+
+</div>
+
+---
+
+# ⭐ Repository Statistics
+
+<div align="center">
+
+![GitHub Repo stars](https://img.shields.io/github/stars/sovanshit/Memnexa?style=for-the-badge)
+
+![GitHub forks](https://img.shields.io/github/forks/sovanshit/Memnexa?style=for-the-badge)
+
+![GitHub issues](https://img.shields.io/github/issues/sovanshit/Memnexa?style=for-the-badge)
+
+![GitHub last commit](https://img.shields.io/github/last-commit/sovanshit/Memnexa?style=for-the-badge)
+
+</div>
+
+---
+
+# 💙 Support the Project
+
+If you found **Memnexa** useful or interesting, please consider supporting the project.
+
+⭐ Star the repository
+
+🍴 Fork it
+
+🐞 Report bugs
+
+💡 Suggest new features
+
+🤝 Share it with others
+
+Every contribution and every star motivates future development.
 
 ---
 
 <div align="center">
 
-## ⭐ Star this repository if you found it helpful!
+# ⭐ Thank You for Visiting Memnexa
 
-🚧 Memnexa is currently under active development. New features are being added regularly.
+### Building the Future of AI-Powered Personal Knowledge Management
 
 Made with ❤️ by **Sovan Shit**
 

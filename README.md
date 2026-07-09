@@ -311,7 +311,7 @@ A quick overview of the Memnexa interface and major modules.
 
 The landing page introduces Memnexa with a modern glassmorphism interface, smooth animations, and AI-inspired visuals.
 
-<img src="screenshots/Home.png" alt="Memnexa Home">
+<img src="Memnexa Home.png" alt="Memnexa Home">
 
 ---
 
